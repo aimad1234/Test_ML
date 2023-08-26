@@ -12,7 +12,7 @@ I've already tested a lot of machine learning algorithms, but Random Forest is s
 
 ### How would the model be deployed in a production environment?
 
-To deploy the model in production, I would save the trained model to a file and create an API or web service. The API would take input data (store, holiday_flag, temperature, fuel_Price, cpi, unemployment, date) and return the predicted weekly sales. The choice of framework and tools for deployment would be determined by project requirements and team expertise.
+To deploy the model in production, I would save the trained model to a file and create an API or web service using any framework such as (Django, Flask, FastAPI) in Python for example . The API would take input data (store, holiday_flag, temperature, fuel_Price, cpi, unemployment, date) and return the predicted weekly sales. The choice of framework and tools for deployment would be determined by project requirements and team expertise.
 
 ## Monitoring Approach
 
