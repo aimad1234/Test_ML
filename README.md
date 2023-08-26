@@ -28,7 +28,3 @@ I would evaluate the model's performance over time by comparing predicted values
 
 Improving the model over time involves collecting diverse data, experimenting with algorithms and hyperparameters, implementing feature engineering techniques, and performing A/B testing. Regular reviews and updates would ensure the model remains aligned with changing data patterns.
 
----
-
-
-
