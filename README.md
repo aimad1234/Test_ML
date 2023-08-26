@@ -1,12 +1,12 @@
 # Project Overview
 
-This repository contains code for building, deploying, and monitoring a machine learning model to predict weekly sales. The project involves multiple stages, from model selection and deployment to ongoing monitoring and improvement.
-
+This repository contains code for building a machine learning model to predict weekly sales. 
 ## Model Explanation
 
 ### How was the model built and why was this particular choice made?
 
 I built a Random Forest Regressor model to predict weekly sales. I chose this model because it can capture non-linear relationships in the data, handle multiple features, and manage outliers effectively. Random Forests are also robust and less prone to overfitting.
+I've already tested a lot of machine learning algorithms, but Random Forest is still the best.
 
 ## Deployment Strategy
 
