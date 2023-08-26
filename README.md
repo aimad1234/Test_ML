@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This repository contains code for building, deploying, and monitoring a machine learning model to predict weekly sales. The project involves multiple stages, from model selection and deployment to ongoing monitoring and improvement.
+This repository contains code for building a machine learning model to predict weekly sales. 
 
 ## Model Explanation
 
@@ -30,5 +30,5 @@ Improving the model over time involves collecting diverse data, experimenting wi
 
 ---
 
-Feel free to explore the code and the insights gained from this project. If you have any questions or suggestions, please reach out!
+
 
